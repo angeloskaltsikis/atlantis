@@ -202,10 +202,6 @@ github.com/konsorten/go-windows-terminal-sequences
 # github.com/leodido/go-urn v1.2.0
 ## explicit
 github.com/leodido/go-urn
-# github.com/lusis/go-slackbot v0.0.0-20180109053408-401027ccfef5
-## explicit
-# github.com/lusis/slack-test v0.0.0-20190426140909-c40012f20018
-## explicit
 # github.com/magiconair/properties v1.8.1
 github.com/magiconair/properties
 # github.com/mattn/go-colorable v0.0.9
@@ -237,9 +233,11 @@ github.com/mitchellh/reflectwalk
 # github.com/mohae/deepcopy v0.0.0-20170603005431-491d3605edfb
 ## explicit
 github.com/mohae/deepcopy
-# github.com/nlopes/slack v0.4.0
+# github.com/nlopes/slack v0.6.0
 ## explicit
 github.com/nlopes/slack
+github.com/nlopes/slack/internal/errorsx
+github.com/nlopes/slack/internal/timex
 github.com/nlopes/slack/slackutilsx
 # github.com/onsi/ginkgo v1.9.0
 ## explicit
